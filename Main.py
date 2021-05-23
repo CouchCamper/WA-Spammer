@@ -6,8 +6,8 @@ import time
 driver = webdriver.Chrome("chromedriver.exe")
 driver.get("https://web.whatsapp.com/")
 
-target = "Fabi"
-message = "oha :("
+target = "contact"
+message = "Hi :)"
 amount = 50
 
 time.sleep(5)
